@@ -1,0 +1,1 @@
+This is a program to encrypt or decrypt given sentence using Playfair Cipher.
